@@ -1,15 +1,6 @@
 .github/workflows
 
 
-pacman.yml
-
-
-README.md
-
-Seu arquivo Leia-me está pronto 🎉🎉🎉
-Dê uma estrela a este projeto
-Faça um fork no Github
-
 <br clear="both">
 
 <h1 align="center">Hello World, welcome  My name is Luís Lituleni. Vamos começar um projeto juntos</h1>
@@ -68,7 +59,7 @@ Faça um fork no Github
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -78,39 +69,3 @@ Faça um fork no Github
 </div>
 
 ###
-Github
-Doar
-Compartilhar
-política de Privacidade
-
-Copiar conteúdo do arquivo
-
-Aprimore seu arquivo README
-Qualquer pessoa pode usar modelos — mas quando você sabe o que está fazendo, isso fica evidente.
-
-👉 Explore recursos que aprimorarão suas habilidades — e seu arquivo README. Comece agora.
-
-
-Aprimore seu inglês
-Desenvolvedores de verdade depuram em inglês.
-
-💰 Obtenha 70% de desconto na sua primeira aula experimental e comece a aprimorar seu inglês com os melhores professores do mundo na Preply 🚀
-
-👉 Obtenha 70% de desconto 👈
-
-Código limpo
-Um Manual de Artesanato em Software Ágil por Tio Bob.
-
-Adquira o livro
-
-Arquitetura limpa
-Soluções de arquitetura de software do Tio Bob.
-
-Adquira o livro
-
-Explore mais livros
-Confira a lista completa de títulos selecionados para aprimorar suas habilidades de programação.
-
-Mais livros
-💡 Este painel contém links afiliados. Se você encontrar algo útil e fizer uma compra, posso receber uma pequena comissão ☕. Obrigada pelo apoio ❤
-Gerador de arquivo Leia-me do perfil
